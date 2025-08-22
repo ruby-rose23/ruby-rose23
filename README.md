@@ -1,6 +1,14 @@
-## Hello!!!
+##🤗 Hello!!, I'm Ruby 
 
-🙋🏻‍♀️ Hi I'm Ruby Rose B. Ceballos student of BSIT 2D from LSPU Main Campus
-👩🏻‍💻 I'm currently learning C# and Python 
-⌨️ I'm still beginner in coding
-✉️ ceballosrubyrose@gmail.com
+About me 🙆🏻‍♀️
+🙋🏻‍♀️Hi I'm Ruby Rose B. Ceballos, Ruby for short
+🏫 I'm currently studying at LSPU main campus taking BSIT 
+🎯My goal is to become a professional programmer
+🔍 I'm really interested at making websites and games
+
+Skills 🏹
+Language: C# & Python 
+Framework/Tools: Github
+
+Contact info📲
+✉️ rubyroseceballos@gmail.com
